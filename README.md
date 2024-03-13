@@ -1,1 +1,1 @@
-# Lego-Trouble - 2D Platform Game
+# Lego Trouble - 2D Platform Game
